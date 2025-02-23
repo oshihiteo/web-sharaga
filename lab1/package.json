@@ -1,5 +1,5 @@
 {
-    "name": "web-sharaga-lab2",
+    "name": "web-sharaga-lab1",
     "version": "1.0.0",
     "author":{"name":"BBlteaOFpaiN"},
     "main": "index.js",
@@ -8,9 +8,6 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "license": "ISC",
-    "type": "module",
-    "dependencies": {
-        "luxon": "^3.5.0"
-    },
+    "dependencies": {},
     "devDependencies": {}
 }
