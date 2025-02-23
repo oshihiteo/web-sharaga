@@ -1,3 +1,5 @@
+## Lab 2
+
 # JavaScript Code: Time Until New Year
 
 This JavaScript code calculates the time remaining until the next New Year's Day in Moscow time and logs the result to the console.
