@@ -1,7 +1,3 @@
-# Web Sharaga
-
-This repository contains the code for the Web Sharaga project. The project is structured into several labs, each focusing on different aspects of web development.
-
 ## Lab 2
 
 ### Initialization Script
