@@ -6,7 +6,7 @@ function timeUntilNewYear() {
 
 	const diff = newYear.diff(now, ["days", "hours", "minutes", "seconds"]).toObject()
 
-    console.log(`Time to New Year: ${diff.days} days, ${diff.hours} hours, ${diff.minutes} minuts, ${diff.seconds} seconds`)
+	console.log(`Time to New Year: ${diff.days} days, ${diff.hours} hours, ${diff.minutes} minuts, ${diff.seconds} seconds`)
 }
 
 timeUntilNewYear()

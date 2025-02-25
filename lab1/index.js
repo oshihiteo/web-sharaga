@@ -1,7 +1,7 @@
 function timeUntilNewYear() {
 	const mskDate = new Date().toLocaleString(`en-US`, { timeZone: `Europe/Moscow` })
 	const now = new Date(mskDate);
-	console. log(now);
+	console.log(now);
 	const new_year = new Date(now.getFullYear() + 1, 0, 1);
 	const difference = getDateDifference(new_year, now);
 	console.log(
